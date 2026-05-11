@@ -76,3 +76,6 @@ est écrit comme un noeud enfant supplémentaire du dernier chiffre.
 - Eliott RIVALETTO
 - Lyvann NABOR
 - Matteo CUTAIA
+
+
+Nous nous somme aidé de Claude pour rediger certaines lignes de code du projet et pour s'assurer du bon fonctionnement !
